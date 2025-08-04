@@ -30,7 +30,7 @@ Um aplicativo moderno e intuitivo para controlar a transparência de janelas no 
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/opacity-window.git
+git clone https://github.com/leandrosuza/opacity-window.git
 cd opacity-window
 ```
 
@@ -178,10 +178,10 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 Se você encontrar algum problema ou tiver sugestões:
 
-1. Abra uma [Issue](https://github.com/seu-usuario/opacity-window/issues)
+1. Abra uma [Issue](https://github.com/leandrosuza/opacity-window/issues)
 2. Descreva o problema detalhadamente
 3. Inclua informações do sistema (Windows, versão, etc.)
 
 ---
 
-**Desenvolvido com ❤️ para a comunidade Windows** 
+**Desenvolvido com ❤️ para a comunidade Windows**
