@@ -129,20 +129,6 @@ O aplicativo automaticamente filtra:
 - Janelas do sistema críticas
 - Janelas sem título
 
-## 🐛 Solução de Problemas
-
-### Problema: Janela não aparece na lista
-**Solução**: Verifique se a janela está visível e não é uma janela do sistema
-
-### Problema: Transparência não é aplicada
-**Solução**: Certifique-se de que a janela suporta transparência (não é uma janela do sistema)
-
-### Problema: Erro de permissão
-**Solução**: Execute o aplicativo como administrador
-
-### Problema: Ícone não aparece
-**Solução**: Use o executável da pasta `dist/` que já inclui o ícone
-
 ## 📝 Changelog
 
 ### v1.0.0 (2025-01-04)
