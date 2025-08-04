@@ -30,7 +30,7 @@ Um aplicativo moderno e intuitivo para controlar a transparência de janelas no 
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/opacity-window.git
+git clone https://github.com/leandrosuza/opacity-window.git
 cd opacity-window
 ```
 
@@ -129,20 +129,6 @@ O aplicativo automaticamente filtra:
 - Janelas do sistema críticas
 - Janelas sem título
 
-## 🐛 Solução de Problemas
-
-### Problema: Janela não aparece na lista
-**Solução**: Verifique se a janela está visível e não é uma janela do sistema
-
-### Problema: Transparência não é aplicada
-**Solução**: Certifique-se de que a janela suporta transparência (não é uma janela do sistema)
-
-### Problema: Erro de permissão
-**Solução**: Execute o aplicativo como administrador
-
-### Problema: Ícone não aparece
-**Solução**: Use o executável da pasta `dist/` que já inclui o ícone
-
 ## 📝 Changelog
 
 ### v1.0.0 (2025-01-04)
@@ -178,10 +164,10 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 Se você encontrar algum problema ou tiver sugestões:
 
-1. Abra uma [Issue](https://github.com/seu-usuario/opacity-window/issues)
+1. Abra uma [Issue](https://github.com/leandrosuza/opacity-window/issues)
 2. Descreva o problema detalhadamente
 3. Inclua informações do sistema (Windows, versão, etc.)
 
 ---
 
-**Desenvolvido com ❤️ para a comunidade Windows** 
+**Desenvolvido com ❤️ para a comunidade Windows**
